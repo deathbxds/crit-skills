@@ -6,7 +6,7 @@ Claude Code skills that run a creative-director crit on graphic, motion and visu
 |---|---|
 | `/crit-concept` | Turning a raw idea into a clear vision |
 | `/crit-brief` | Stress-testing a project brief: scope, audience, deliverables, constraints |
-| `/crit-prompt` | Tightening a prompt for an AI tool (Midjourney, Runway, Figma Make, Claude…) |
+| `/crit-prompt` | Tightening a prompt for an image, video or UI generator (Midjourney, Runway, Figma Make…) or for Claude itself |
 | `/crit-work` | Feedback on a work in progress: a screenshot, Figma link or open Photoshop file |
 
 Suggested flow: `crit-concept → crit-brief → crit-prompt → crit-work`.
